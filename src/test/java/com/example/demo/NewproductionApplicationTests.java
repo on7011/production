@@ -10,4 +10,8 @@ class NewproductionApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void test2() {
+		System.out.println("✨");
+	}
 }
